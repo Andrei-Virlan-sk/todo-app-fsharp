@@ -1,0 +1,18 @@
+# Rezultatele compilării .NET
+bin/
+obj/
+TestResults/
+
+# Fișierele de date ale aplicației
+sarcini.txt
+*.tmp
+
+# Documentația Word se predă separat, nu stă în repo
+*.docx
+
+# Fișiere temporare Word și editoare
+~$*
+.vs/
+.vscode/
+.idea/
+*.user
